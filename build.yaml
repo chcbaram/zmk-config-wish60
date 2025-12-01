@@ -20,3 +20,4 @@
 ---
 include:
   - board: wish60
+    artifact-name: wish60-ble
