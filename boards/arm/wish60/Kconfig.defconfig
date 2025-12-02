@@ -4,7 +4,7 @@
 if BOARD_WISH60
 
 config ZMK_KEYBOARD_NAME
-    default "wish60-ble-baram"
+    default "wish60-ble-R1.1"
 
 if USB_DEVICE_STACK
 
