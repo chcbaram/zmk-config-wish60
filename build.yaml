@@ -21,3 +21,4 @@
 include:
   - board: wish60
     artifact-name: wish60-ble
+    snippet: studio-rpc-usb-uart
